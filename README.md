@@ -8,3 +8,5 @@
 
 [Лекция 4, часть 1](https://github.com/klyshinsky/Math4Linguists2025/blob/main/Lecture_4_1_Finite_Automatons_20250415.ipynb) - Конечные автоматы.
 
+[Лекция 5, часть 1](https://github.com/klyshinsky/Math4Linguists2025/blob/main/Lecture_5_1_Formal_Parsing_20250417.ipynb) - Разбор с использованием формальных грамматик.
+
