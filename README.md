@@ -10,3 +10,5 @@
 
 [Лекция 5, часть 1](https://github.com/klyshinsky/Math4Linguists2025/blob/main/Lecture_5_1_Formal_Parsing_20250417.ipynb) - Разбор с использованием формальных грамматик.
 
+[Лекция 6, часть 1](https://github.com/klyshinsky/Math4Linguists2025/blob/main/Lecture_6_1_Sorting_Complexity_20250424.ipynb) - Алгоритмическая сложность. Алгоритмы сорттитровки.
+
