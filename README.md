@@ -12,3 +12,4 @@
 
 [Лекция 6, часть 1](https://github.com/klyshinsky/Math4Linguists2025/blob/main/Lecture_6_1_Sorting_Complexity_20250424.ipynb) - Алгоритмическая сложность. Алгоритмы сорттитровки.
 
+[Лекция 6, часть 1](https://github.com/klyshinsky/Math4Linguists2025/blob/main/Lecture_7_1_Data_Structures_20250429.ipynb) - Структуры данных на деревьях.
